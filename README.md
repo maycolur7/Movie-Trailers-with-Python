@@ -10,4 +10,4 @@ Instructions:
 #3 You will see a new tab in your browser with the gallery
 
 
-When you have problem, please contact me help.
+When you have a problem, please contact me for help.
